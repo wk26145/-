@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<TriggernometryExport PluginVersion="1.2.0.6">
+  <ExportedFolder Id="f9a3d984-e25d-4cc3-bd7a-740a6cd0817f" Name="土制挖宝小助手" Enabled="true">
+    <Folders>
+      <Folder Id="eeab9534-ec36-49f0-9729-ee8bc33733e4" Name="跨服" Enabled="true">
+        <Folders>
+          <Folder Id="490dc4e6-fbce-4087-afca-98001d45c3e5" Name="豆豆柴" Enabled="true">
+            <Folders />
+            <Triggers>
+              <Trigger Enabled="true" Name="红茶川" Id="c8f1a12b-43ac-490b-b8c6-bb1155137c73" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服红茶川$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 红茶川" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="水晶塔" Id="f6340971-aa34-4a5d-9562-a0b6d47d1e61" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服水晶塔$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 水晶塔" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="太阳海岸" Id="a7edcb31-a0de-4a31-8383-86ce8c28bd35" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服太阳海岸$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 太阳海岸" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="伊修加德" Id="7989f119-67db-42c3-91ca-11ed8ae97327" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服伊修加德$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 伊修加德" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="银泪湖" Id="e3842704-bc9a-4f4b-8ddd-23087a7fb3a6" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服银泪湖$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 银泪湖" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+            </Triggers>
+          </Folder>
+          <Folder Id="da4116ca-63e0-4ba2-9acf-247a76a61f66" Name="猫小胖" Enabled="true">
+            <Folders />
+            <Triggers>
+              <Trigger Enabled="true" Name="海猫茶屋" Id="98114c4f-376e-4d1b-9094-f73508f2378e" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服海猫茶屋$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 海猫茶屋" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="琥珀原" Id="d5817c20-ead4-43a2-a8cd-f3a9bef21361" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服琥珀原$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 琥珀原" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="静语庄园" Id="c9818a56-f79b-4d5e-a99b-7a567162f5bc" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服静语庄园$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 静语庄园" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="摩杜纳" Id="be943c21-bc71-4ec6-b742-8d4af14ab6fb" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服摩杜纳$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 摩杜纳" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="柔风海湾" Id="2aebf725-6060-4f93-8852-f61c4bcea4a8" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服柔风海湾$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 柔风海湾" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="延夏" Id="06e00323-9e66-42fb-8688-a088fc3e1887" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服延夏$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 延夏" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="紫水栈桥" Id="784da298-7c7a-4c4e-8655-7d49b70d13d2" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服紫水栈桥$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 紫水栈桥" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+            </Triggers>
+          </Folder>
+          <Folder Id="1878927d-85e5-427d-baeb-ae24174db54b" Name="莫古力" Enabled="true">
+            <Folders />
+            <Triggers>
+              <Trigger Enabled="true" Name="白金" Id="7b4f5878-d007-4ee3-b582-5804c9f27791" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服白金$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 白金幻象" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="白银" Id="5fe9b440-e927-4f9c-87f7-168698e3c423" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服白银$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 白银乡" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="潮风亭" Id="571ac09a-e47b-4020-a5bf-cba246e7f43b" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服潮风亭$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 潮风亭" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="拂晓" Id="feb8ed3d-af1b-4107-8910-c838da9815d4" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服拂晓$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 拂晓之间" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="龙巢" Id="1786b73d-bb9a-4701-86df-1e333f3c081b" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服龙巢$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 龙巢神殿" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="旅人" Id="87c1612c-3bcf-4c12-a578-db217581a806" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服旅人$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 旅人栈桥" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="梦羽" Id="ee5d41b2-5f91-4ab6-bc30-0061479f8215" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服梦羽$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 梦羽宝境" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="神拳" Id="f0d5f8fe-dfc7-4e04-ae3a-b93c6c4d16c0" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服神拳$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 神拳痕" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+            </Triggers>
+          </Folder>
+          <Folder Id="a379588c-ee59-4b23-af43-c139dc32cb3e" Name="陆行鸟" Enabled="true">
+            <Folders />
+            <Triggers>
+              <Trigger Enabled="true" Name="晨曦王座" Id="6001da88-19ca-46f2-8be8-269d65f86660" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服晨曦王座$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 晨曦王座" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="红玉海" Id="3c0cbd4b-0b8a-4284-a51a-72379a9448a6" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服红玉海$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 红玉海" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="幻影群岛" Id="79e01463-42bd-4a7f-ab4c-9f1c29bc6b6c" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服幻影群岛$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 幻影群岛" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="拉诺西亚" Id="61f0660b-c560-4d54-aac2-18bf318fae75" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服拉诺西亚$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 拉诺西亚" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="萌芽池" Id="d28ee3db-68a7-4206-9c95-9634152aa262" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服萌芽池$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 萌芽池" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="神意之地" Id="d1451554-2718-4909-996c-3f156b7ca2fb" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服神意之地$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 神意之地" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="沃仙曦染" Id="a461f18d-5370-4e37-aeee-0090b96ca60c" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服沃仙曦染$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 沃仙曦染" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+              <Trigger Enabled="true" Name="宇宙和音" Id="a4c34bb8-0257-4421-b412-739ffbd700f9" RegularExpression="^.{14} ChatLog 00:000E:.*:跨服宇宙和音$">
+                <Actions>
+                  <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr worldtravel 宇宙和音" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="300" />
+                </Actions>
+              </Trigger>
+            </Triggers>
+          </Folder>
+        </Folders>
+        <Triggers />
+      </Folder>
+      <Folder Id="07047435-66aa-42cf-8db8-db7d84109d7c" Name="绿玩车头1拖7挂件" Enabled="false">
+        <Folders />
+        <Triggers>
+          <Trigger Enabled="true" Name="队长重置超振动自动退本" Id="9f2089d9-8935-499c-b56e-b7005d7ca90f" RegularExpression="伴随着解除限制，附加了强化状态。">
+            <Actions>
+              <Action OrderNumber="1" NamedCallbackName="command" NamedCallbackParam="/p 下底啦该退本啦" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="5000" />
+              <Action OrderNumber="2" NamedCallbackName="command" NamedCallbackParam="/pdr leaveduty" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="6000" />
+            </Actions>
+          </Trigger>
+          <Trigger Enabled="true" Name="落地多玛飞地传无二江流域" Id="00f16944-d085-46b8-8774-d6d1b96d3f62" RegularExpression="“多玛飞地”的传送邀请。">
+            <Actions>
+              <Action OrderNumber="1" NamedCallbackName="command" NamedCallbackParam="/e 5秒后前往无二江流域" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" />
+              <Action OrderNumber="2" NamedCallbackName="command" NamedCallbackParam="/li 无二江流域" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="5000" />
+            </Actions>
+          </Trigger>
+          <Trigger Enabled="true" Name="挖宝挂件自爆(回调)" Id="d8754912-fb90-48b2-b5d3-ad6efef03ff9" RegularExpression="^.{14} ChatLog 00:0839::“(水城宝物库|运河宝物库|运河宝物库神殿|梦羽宝境|梦羽宝殿|惊奇百宝城|厄尔庇斯育体宝殿)”任务开始。">
+            <Actions>
+              <Action OrderNumber="1" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/e 自爆 自爆&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;" NamedCallbackName="command" NamedCallbackParam="/e 自爆 &lt;se.1&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" />
+              <Action OrderNumber="2" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/blueaction 自爆" NamedCallbackName="command" NamedCallbackParam="/blueaction 自爆" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="1000" />
+              <Action OrderNumber="3" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/blueaction 自爆" NamedCallbackName="command" NamedCallbackParam="/blueaction 自爆" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" />
+              <Action OrderNumber="4" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/blueaction 自爆" NamedCallbackName="command" NamedCallbackParam="/blueaction 自爆" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" />
+              <Action OrderNumber="5" JsonEndpointExpression="http://127.0.0.1:2019/command" JsonPayloadExpression="/blueaction 自爆" NamedCallbackName="command" NamedCallbackParam="/blueaction 自爆" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" />
+            </Actions>
+          </Trigger>
+        </Triggers>
+      </Folder>
+      <Folder Id="c05d911f-dd71-4787-b578-335066db42b1" Name="清包" Enabled="true">
+        <Folders />
+        <Triggers>
+          <Trigger Enabled="true" Name="2.清包" Id="d3c8c0d7-f280-4617-8225-205ae0c0797b" RegularExpression="^.{14} ChatLog 00:000E:.*:清包$">
+            <Actions>
+              <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdrdiscard 挖宝垃圾" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback">
+                <Condition Enabled="false" Grouping="Or" />
+              </Action>
+            </Actions>
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Trigger>
+          <Trigger Enabled="true" Name="1.右键执行复制预设，导入DR自动丢弃物品" Id="037876eb-f2bf-4939-8df7-610134938d7d" RegularExpression="">
+            <Actions>
+              <Action OrderNumber="1" SoundRouting="None" TTSRouting="None" VariableOp="Clipboard" VariableExpression="eyJVbmlxdWVOYW1lIjoi5oyW5a6d5Z6D5Zy+IiwiSXRlbXMiOlsxOTkyMSwxOTkxOSwxMjkzMiwyNzc4NiwyNzc4NywyNzc4OCwyNzc4OSwyNzc5MCwyNzk5NSwyNzk5NiwyNzk5NywyNzk5OCwyNzk5OSwyOTQ5MiwyOTQ5MywyOTQ5NCwyOTQ5NSwyOTQ5NiwzMTg5MywzMTg5NCwzMTg5NSwzMTg5NiwzMTg5NywzNjEwNCwzNjEwNSwzNjEwNiwzNjEwNywzNjEwOCwzNjEwOSwzNjExMCwzNjExMSwzNjExMiwzNjExMywzNzg0MCwzNzg0MSwzNzg0MiwzNzg0MywzNzg0NCwzOTcyNywzOTcyOCwzOTcyOSwzOTczMCwzOTczMSwzNjE3NiwzNjE3NSwzMTA3MSwzODkzMiwyNzc2NywyNzc2OCwyNzc2OSwyNzc3MCwyNzc3MSwyNzc5MSwyNzc5MiwyNzc5MywyNzc5NCwyNzc5NSwyOTk2MywyOTk2NCwyOTk2NSwyOTk2NiwyOTk2NywzMjkzOSwzMjk0MCwzMjk0MSwzMjk0MiwzMjk0MywzNjIyNywzNjIyOCwzNjIyOSwzNjIzMCwzNjIzMSwzNjIzMiwzNjIzMywzNjIzNCwzNjIzNSwzNjIzNiwzNzgzNSwzNzgzNiwzNzgzNywzNzgzOCwzNzgzOSwzOTcyMiwzOTcyMywzOTcyNCwzOTcyNSwzOTcyNiwzNjE4MSwzNjE4MiwzNjE4OCwzNjE2OCwzNjE2OSwzNjE3MSwzNjE3MiwzNjE4NCwzNjE5NiwzNjE5NywzNjE5OCwzNjE5MSwzNjE5MywzNjIwOCwzNjIwOSwzNjIxMCwzNjIxMiwzNjIwMywzNjIwNCwzNjIwNiwzNjI0OCwzNjI0MywzNjI0OSwzNjI0NCwzNjI1MiwzNjIyMiwzNjE2MywzNjE2NCwyNzcyMCwzNjE2NSwyNzcwOSwyNzY5MCwyNzY4NCwxMjUyNSwyNzcwNiwyNzcyMywyNzcyOSwyNzc1MywyNzc1MSwyNzc1MiwyNzc1MCwyNzc0OCwyNzY4NiwyNzY5MiwyNzY4NSwyNzY5MSwyNzY4MywyNzY4OSwxMjU3OSwxMjU4MywyNzcxMiwyNzcxMywyNzcwOCwxMjU5NiwxMjYwMCwyNzc0MiwyNzczOCwyNzc0MCwxMjU5MiwyNzc2NiwyNzc1NywyNzc1OCwxMjUyNiwxMjUyNywxMjUzOCwyNzcxMCwxMjU4MiwyNzY5NCwyNzY4OCwxNDk1NywxNDE1OCwxMjU5OCwxMjU5MCwxMjU5MSwxNzU3NCwxNjcyNCwxMjU3NiwxMjYzMywyNzcyMSwyNzc0NiwyNzcyMiwyNzY4NywyNzY5Myw0NDA0OSwyNzc3OCwyNzcxMSwyNzc2NSwxOTkwNSwxOTkwNCwxMjYwOCwxMjYwNyw1NDczLDU0NzIsNTQ3MSw1NDcwXSwiQmVoYXZpb3VyIjowfQ==" ActionType="Variable">
+                <Condition Enabled="false" Grouping="Or" />
+              </Action>
+            </Actions>
+            <Condition Enabled="false" Grouping="Or" />
+            <Conditions />
+          </Trigger>
+        </Triggers>
+      </Folder>
+    </Folders>
+    <Triggers>
+      <Trigger Enabled="true" Name="2.跟饼（双击看详情" Id="44aede12-1f3e-47e0-91a4-768008535d5a" RegularExpression="^.{14} ChatLog 00:000E:.*:跟饼$">
+        <Actions>
+          <Action OrderNumber="1" NamedCallbackName="command" NamedCallbackParam="/target &lt;圆圈&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="2" NamedCallbackName="command" NamedCallbackParam="/follow" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="3" NamedCallbackName="normalcommand" NamedCallbackParam="/pdrfollow &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="4" NamedCallbackName="normalcommand" NamedCallbackParam="/vbm ai on" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="5" NamedCallbackName="normalcommand" NamedCallbackParam="/bmrai on" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="6" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" Enabled="False" ActionType="NamedCallback" Description="自动循环用bm或者bmr的请勾选下面两个" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="7" NamedCallbackName="normalcommand" NamedCallbackParam="/vbm ar set VBM Default" SoundRouting="None" TTSRouting="None" Enabled="False" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="8" NamedCallbackName="normalcommand" NamedCallbackParam="/bmr ar set VBM Default" SoundRouting="None" TTSRouting="None" Enabled="False" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+        </Actions>
+      </Trigger>
+      <Trigger Enabled="true" Name="1.队长给我" Id="07b59998-5a4d-41d3-88e5-ed7e1fcdd0c2" RegularExpression="^.{14} ChatLog 00:000E:.*:队长给我$">
+        <Actions>
+          <Action OrderNumber="1" NamedCallbackName="command" NamedCallbackParam="/target &lt;三角&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="2" NamedCallbackName="command" NamedCallbackParam="/leader &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="500" />
+        </Actions>
+      </Trigger>
+      <Trigger Enabled="true" Name="3.复活" Id="38d9742a-8eb0-4a49-9f63-6bd18781fe25" RegularExpression="^.{14} ChatLog 00:000E:.*:复活$">
+        <Actions>
+          <Action OrderNumber="1" NamedCallbackName="command" NamedCallbackParam="/target &lt;attack1&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="2" NamedCallbackName="command" NamedCallbackParam="/ac 复生 &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="3" NamedCallbackName="command" NamedCallbackParam="/ac 复活 &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="4" NamedCallbackName="command" NamedCallbackParam="/ac 复苏 &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="5" NamedCallbackName="command" NamedCallbackParam="/ac 生辰 &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+          <Action OrderNumber="6" NamedCallbackName="command" NamedCallbackParam="/ac 赤复活 &lt;t&gt;" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="200" />
+        </Actions>
+      </Trigger>
+      <Trigger Enabled="true" Name="4.下底退本" Id="39fb84dd-bdf1-465c-bab8-cce3267eebb0" RegularExpression="^.{14} ChatLog 00:000E:.*:下底啦该退本啦$">
+        <Actions>
+          <Action OrderNumber="1" NamedCallbackName="normalcommand" NamedCallbackParam="/pdr leaveduty" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" ExecutionDelayExpression="1000" />
+        </Actions>
+      </Trigger>
+      <Trigger Enabled="true" Name="使用说明" Id="eea57e5d-df7e-4bd7-bc7b-85014ea55ec3" RegularExpression="^.{15}\S+ 00:0038:: *[?？] *(?&lt;cmd&gt;.+?) *$">
+        <Actions>
+          <Action OrderNumber="1" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="跨服功能  前置：dr快捷跨界传送指令  在小队频道发“跨服拂晓”“跨服潮风亭”“跨服神拳”" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="2" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="掉线重连后的重新自动跟随 前置：dr更好的自动跟随  手动给车头标大饼→小队频道发“跟饼”" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="3" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="如果你的队友不会自动拉人  给要拉的人标攻击1→小队频道发“复活”" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="4" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="移交队长  给自己标三角→小队频道发“队长给我”" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="5" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="下底退本 前置：dr即刻退本  小队发“下底啦该退本啦”" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="6" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="多玛传无二江还需要lifestream插件" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="7" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="尸体不会跑机制、输出，请重新跟饼" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="8" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="推荐配套使用的三个宏：" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="9" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="/marking 圆圈&lt;1&gt;&#xD;&#xA;/p 跟饼&#xD;&#xA;/micon 圆圈 marking" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="10" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="/marking 攻击1&lt;t&gt;&#xD;&#xA;/p 复活&#xD;&#xA;/micon 攻击1 marking" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="11" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="/marking 三角&lt;1&gt;&#xD;&#xA;/p 队长给我&#xD;&#xA;/micon 三角 marking" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+          <Action OrderNumber="12" NamedCallbackName="V&amp;C_help" SoundRouting="None" TTSRouting="None" ActionType="NamedCallback" Description="/p 下底啦该退本啦&#xD;&#xA;/宏图标 禁止1 marking" DescBgColor="f4faff" DescTextColor="26f" DescriptionOverride="True" />
+        </Actions>
+        <Condition Enabled="true" Grouping="Or">
+          <ConditionSingle Enabled="true" ExpressionL="${ev:V&amp;C_help_isRunning}" ExpressionTypeL="String" ExpressionR="0" ExpressionTypeR="String" ConditionType="StringEqualCase" />
+        </Condition>
+      </Trigger>
+    </Triggers>
+  </ExportedFolder>
+</TriggernometryExport>
