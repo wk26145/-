@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <TriggernometryExport PluginVersion="1.2.0.6">
-  <ExportedFolder Id="f9a3d984-e25d-4cc3-bd7a-740a6cd0817f" Name="土制挖宝小助手" Enabled="true">
+  <ExportedFolder Id="f9a3d984-e25d-4cc3-bd7a-740a6cd0817f" Name="土制挖宝小助手V1.7" Enabled="true">
     <Folders>
       <Folder Id="eeab9534-ec36-49f0-9729-ee8bc33733e4" Name="跨服" Enabled="true">
         <Folders>
